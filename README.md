@@ -17,4 +17,4 @@ https://maximilianmuenchinger.github.io/IFD/GUI_Dokumentation.pdf
 
 
 Sprachassistent:
-https://maximilianmuenchinger.github.io/IFD/Sprachassistent_Maximilian_Münchinger.pdf
+https://maximilianmuenchinger.github.io/IFD/Sprachassistent.pdf
